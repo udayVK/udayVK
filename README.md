@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Vamshi @udayVK
-- 👀 I’m interested in Web development and Data Science
-- 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on Web dev projects
-- 📫 How to reach me ... vamshi8724@gmial.com
+I still don't beleive that my code works
 
 <!---
 udayVK/udayVK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
